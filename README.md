@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on a journey to deepen my knowledge in Cybersecurity, Full-Stack Development, and Databases.\
 ✍️ &nbsp;In my free time, I work on side projects related to computer science, always looking for new challenges and learning opportunities.\
 💬 &nbsp;I'm open to pro bono consulting, volunteering, or just engaging in interesting discussions—feel free to reach out!\
-✉️ &nbsp;You can drop me an email at avsingh@umass.edu, and I'll do my best to respond as soon as possible.\
+✉️ &nbsp;You can drop me an email at ruedamariano4@gmail.com, and I'll do my best to respond as soon as possible.\
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
