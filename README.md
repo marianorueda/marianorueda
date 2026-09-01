@@ -1,29 +1,60 @@
-<h1 align="center"><b>Hi , I'm Mariano Rueda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Mariano Rueda
 
-### 👨🏻‍💻 &nbsp;About Me
+**Desarrollador Fullstack** — construyo CRMs, ERPs y productos SaaS de punta a punta, del modelo de datos a la interfaz.
 
-💡 &nbsp;I enjoy exploring new technologies and developing software solutions, from full-fledged applications to quick hacks.\
-🎓 &nbsp;I'm an advanced student in the Bachelor of Science in Computer Science at the Faculty of Exact, Physical and Natural Sciences of the University of San Juan.\
-🌱 &nbsp;I'm on a journey to deepen my knowledge in Cybersecurity, Full-Stack Development, and Databases.\
-✍️ &nbsp;In my free time, I work on side projects related to computer science, always looking for new challenges and learning opportunities.\
-💬 &nbsp;I'm open to pro bono consulting, volunteering, or just engaging in interesting discussions—feel free to reach out!\
-✉️ &nbsp;You can drop me an email at ruedamariano4@gmail.com, and I'll do my best to respond as soon as possible.\
+---
 
+## Sobre mí
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+Trabajo como desarrollador fullstack en [Software Makers](https://www.linkedin.com/company/mmmakers), en remoto, desde marzo de 2025. Mi día a día es el ciclo completo de un producto: diseño el modelo de datos, escribo las APIs y la lógica de negocio, y construyo la interfaz.
 
-### 🛠 &nbsp;Tech Stack
+También diseño e implemento flujos de automatización en **n8n** integrados a esas plataformas, y desarrollo el frontend de aplicaciones móviles multiplataforma con **React Native** y **Expo**.
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; <br>
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+En paralelo curso la Licenciatura en Ciencias de la Computación en la UNSJ. Me interesa la IA aplicada y el análisis de datos, y busco acercar esas herramientas a los productos en los que trabajo.
+
+## Stack
+
+| Área | Tecnologías |
+|---|---|
+| **Frontend** | React · Next.js · TypeScript · JavaScript |
+| **Mobile** | React Native · Expo |
+| **Backend** | Node.js · NestJS · Python |
+| **Datos** | PostgreSQL · Supabase |
+| **Infra y tooling** | Docker · Azure · Git / GitHub |
+| **Automatización** | n8n |
+
+<!--
+## Proyectos
+
+Descomentar esta sección cuando haya repos públicos que valga la pena mostrar.
+
+### [nombre-del-proyecto](https://github.com/marianorueda/nombre-del-proyecto)
+Qué resuelve, en dos líneas.
+**Stack:** Next.js · NestJS · PostgreSQL · Docker
+[Demo en vivo](https://...) · [Código](https://github.com/...)
+
+### [otro-proyecto](https://github.com/marianorueda/otro-proyecto)
+Qué resuelve, en dos líneas.
+**Stack:** React Native · Expo · Supabase
+[Código](https://github.com/...)
+-->
+
+## Formación
+
+**Universidad Nacional de San Juan** — Facultad de Ciencias Exactas, Físicas y Naturales
+
+- **Licenciatura en Ciencias de la Computación** · 2023 – 2028 · cursando 4º año
+- **Técnico Universitario en Programación** · 2023 – 2026 · título obtenido
+
+## Contacto
+
+- **LinkedIn** — [linkedin.com/in/mariano-rueda](https://www.linkedin.com/in/mariano-rueda/)
+- **Email** — [TU-EMAIL](mailto:TU-EMAIL)
+- **Ubicación** — San Juan, Argentina · disponible para trabajo remoto
+
+---
+
+<sub>**In English** — Fullstack developer based in Argentina. I build CRMs, ERPs and SaaS
+products end to end with React, Next.js, Node.js/NestJS and PostgreSQL, alongside
+cross-platform mobile frontends with React Native and Expo, and n8n automation
+workflows. Intermediate English, comfortable working remotely with international teams.</sub>
