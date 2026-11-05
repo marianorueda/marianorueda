@@ -49,7 +49,7 @@ Qué resuelve, en dos líneas.
 ## Contacto
 
 - **LinkedIn** — [linkedin.com/in/mariano-rueda](https://www.linkedin.com/in/mariano-rueda/)
-- **Email** — [TU-EMAIL](mailto:ruedamariano4@gmail.com)
+- **Email** — [ruedamariano4@gmail.com](mailto:ruedamariano4@gmail.com)
 - **Ubicación** — San Juan, Argentina · disponible para trabajo remoto
 
 ---
